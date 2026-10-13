@@ -156,7 +156,7 @@ A categorized directory for embedded firmware projects, including source code, i
   <a href="https://github.com/mukhesh-qtech">
     <img src="https://img.shields.io/badge/GitHub-Follow-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/mukhesh-raju-adapa-a2427328a/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
   </a>
 </p>
