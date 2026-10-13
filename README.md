@@ -142,13 +142,24 @@ Exploring system-level engineering.
 
 ---
 
-## 📁 Embedded Projects Index
+## 📁 Embedded Systems Workbench
 
-A categorized directory for embedded firmware projects, including source code, implementation notes, and testing results.
+My workspace for building, testing, and documenting embedded systems through practical engineering.
 
-<img src="https://img.shields.io/badge/PROJECT_INDEX-COMING_SOON-16A34A?style=for-the-badge" alt="Project index coming soon"/>
+<p align="left">
+  <a href="https://github.com/mukhesh-qtech/embedded-systems-workbench">
+    <img src="https://img.shields.io/badge/EXPLORE-EMBEDDED%20SYSTEMS%20WORKBENCH-16A34A?style=for-the-badge&logo=github&logoColor=white" alt="Explore Embedded Systems Workbench"/>
+  </a>
+</p>
 
----
+**Inside the Workbench**
+
+- Basic Projects
+- Intermediate Projects
+- Original Projects
+- Advanced Systems
+
+[Explore the repository →](https://github.com/mukhesh-qtech/embedded-systems-workbench)
 
 ## 🤝 Connect
 
