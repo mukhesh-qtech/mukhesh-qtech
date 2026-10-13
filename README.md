@@ -1,4 +1,4 @@
-# Hi, I'm Mukhesh
+# Hi, I'm Mukhesh Raju
 
 I'm an Electronics and Communication Engineering undergraduate working toward a career in embedded firmware development.
 
