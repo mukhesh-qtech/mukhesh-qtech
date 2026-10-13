@@ -1,44 +1,55 @@
-# Adapa Mukhesh Raju
+<!-- HEADER -->
 
-### `Embedded Systems` · `Firmware Development`
+<h1 align="center">Adapa Mukhesh Raju</h1>
 
-Learning embedded systems by building and testing projects.
+<h3 align="center">Embedded Systems | Firmware Development</h3>
 
-I'm an Electronics and Communication Engineering undergraduate focused on embedded firmware, microcontrollers, and low-level programming. I learn by building projects, testing my implementations, and understanding how software interacts with hardware.
+<p align="center">
+  Learning embedded systems by building and testing projects.
+</p>
 
-<p>
-  <img src="https://img.shields.io/badge/FIRMWARE-00C896?style=for-the-badge&logoColor=white" alt="Firmware"/>
-  <img src="https://img.shields.io/badge/STM32-123B32?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32"/>
-  <img src="https://img.shields.io/badge/IoT-087F5B?style=for-the-badge&logo=arduino&logoColor=white" alt="IoT"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/FIRMWARE-00A878?style=for-the-badge&logoColor=white" alt="Firmware"/>
+  <img src="https://img.shields.io/badge/STM32-087F5B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32"/>
+  <img src="https://img.shields.io/badge/IoT-166534?style=for-the-badge&logo=arduino&logoColor=white" alt="IoT"/>
 </p>
 
 ---
 
-## 🟢 CURRENTLY BUILDING
+I'm an Electronics and Communication Engineering undergraduate focused on embedded firmware and microcontroller programming. I enjoy understanding how software interacts with hardware and turning what I learn into working projects.
+
+## 🟢 Currently Building
 
 <table>
 <tr>
-<td width="70%" valign="top">
+<td valign="top" width="72%">
 
 ### STM32 LED Controller
 
-**Status:** 🟢 In Progress
+<img src="https://img.shields.io/badge/IN%20PROGRESS-16A34A?style=flat-square" alt="In progress"/>
 
 Exploring GPIO control, LED states, and timing using STM32 HAL in PICSimLab.
 
-- Microcontroller: STM32F103C8T6
-- Language: C
-- Development: STM32CubeIDE
-- Simulation: PICSimLab
+| Component | Details |
+|---|---|
+| Microcontroller | STM32F103C8T6 Blue Pill |
+| Language | C |
+| Framework | STM32 HAL |
+| IDE | STM32CubeIDE |
+| Simulation | PICSimLab |
 
 </td>
-<td width="30%" align="center" valign="middle">
-
-<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32"/>
+<td valign="middle" align="center" width="28%">
 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
 
-<img src="https://img.shields.io/badge/GPIO-00C896?style=for-the-badge" alt="GPIO"/>
+<br/>
+
+<img src="https://img.shields.io/badge/STM32-087F5B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/GPIO-16A34A?style=for-the-badge" alt="GPIO"/>
 
 </td>
 </tr>
@@ -46,17 +57,22 @@ Exploring GPIO control, LED states, and timing using STM32 HAL in PICSimLab.
 
 ---
 
-## 🧩 PROJECT ROADMAP
+## 🧩 Project Roadmap
 
-<sub>Building from fundamentals toward practical embedded systems.</sub>
+<p>
+  <img src="https://img.shields.io/badge/01_BASIC-16A34A?style=flat-square" alt="Basic projects"/>
+  <img src="https://img.shields.io/badge/02_INTERMEDIATE-168AAD?style=flat-square" alt="Intermediate projects"/>
+  <img src="https://img.shields.io/badge/03_ORIGINAL-7950B2?style=flat-square" alt="Original projects"/>
+  <img src="https://img.shields.io/badge/04_ADVANCED-E76F51?style=flat-square" alt="Advanced projects"/>
+</p>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🟢 01 / BASIC
+### 🟢 Basic Projects
 
-**Microcontroller Fundamentals**
+Building strong microcontroller fundamentals.
 
 - LED Blink
 - RGB LED Controller
@@ -67,9 +83,9 @@ Exploring GPIO control, LED states, and timing using STM32 HAL in PICSimLab.
 </td>
 <td width="50%" valign="top">
 
-### 🔵 02 / INTERMEDIATE
+### 🔵 Intermediate Projects
 
-**Peripheral Programming**
+Working with peripherals and structured firmware.
 
 - PWM Signal Generator
 - UART Command Interface
@@ -82,9 +98,9 @@ Exploring GPIO control, LED states, and timing using STM32 HAL in PICSimLab.
 <tr>
 <td width="50%" valign="top">
 
-### 🟣 03 / ORIGINAL
+### 🟣 Original Projects
 
-**Practical Embedded Solutions**
+Developing practical embedded solutions.
 
 - Smart Temperature Monitor
 - Smart Water Tank Controller
@@ -95,11 +111,11 @@ Exploring GPIO control, LED states, and timing using STM32 HAL in PICSimLab.
 </td>
 <td width="50%" valign="top">
 
-### 🟠 04 / ADVANCED
+### 🟠 Advanced Systems
 
-**System-Level Engineering**
+Exploring system-level engineering.
 
-- RTOS and Real-Time Systems
+- Real-Time Systems and RTOS
 - Fault Handling and Watchdogs
 - Robotics and Drone-Oriented Firmware
 
@@ -109,67 +125,44 @@ Exploring GPIO control, LED states, and timing using STM32 HAL in PICSimLab.
 </tr>
 </table>
 
-> **Project status:** This is my learning roadmap, not a list of completed projects. I'll add repository links, source code, and testing documentation as implementations become available.
+> This is my project roadmap, not a list of completed projects. Repository links and testing notes will be added as implementations become available.
 
 ---
 
-## ⚙️ TECHNOLOGY STACK
+## ⚙️ Tools & Technologies
 
-<table>
-<tr>
-<td valign="top" width="33%">
-
-**LANGUAGE**
-
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/>
-
-</td>
-<td valign="top" width="33%">
-
-**EMBEDDED**
-
-<img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32"/>
-
-<img src="https://img.shields.io/badge/STM32CubeIDE-123B32?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32CubeIDE"/>
-
-<img src="https://img.shields.io/badge/PICSimLab-444444?style=flat-square" alt="PICSimLab"/>
-
-</td>
-<td valign="top" width="33%">
-
-**WORKFLOW**
-
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-
-</td>
-</tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/STM32-087F5B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32"/>
+  <img src="https://img.shields.io/badge/STM32CubeIDE-166534?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32CubeIDE"/>
+  <img src="https://img.shields.io/badge/PICSimLab-4B5563?style=for-the-badge" alt="PICSimLab"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
 
 ---
 
-## 📁 EMBEDDED PROJECTS INDEX
+## 📁 Embedded Projects Index
 
-A dedicated directory for embedded projects, with source code, implementation notes, and testing results.
+A categorized directory for embedded firmware projects, including source code, implementation notes, and testing results.
 
-**Coming soon** — projects will be organized by difficulty and documented as they develop.
+<img src="https://img.shields.io/badge/PROJECT_INDEX-COMING_SOON-16A34A?style=for-the-badge" alt="Project index coming soon"/>
 
 ---
 
-## 🤝 CONNECT
-
-I'm interested in embedded systems, firmware development, and opportunities to learn through real engineering work.
+## 🤝 Connect
 
 <p>
   <a href="https://github.com/mukhesh-qtech">
-    <img src="https://img.shields.io/badge/GitHub-mukhesh--qtech-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
   </a>
   <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
   </a>
 </p>
 
 ---
 
-<sub>Learning by building. Improving through testing. Growing one project at a time.</sub>
+<p align="center">
+  <sub>Learning by building · Improving through testing · Growing one project at a time</sub>
+</p>
