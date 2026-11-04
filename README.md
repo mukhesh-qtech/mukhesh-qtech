@@ -152,7 +152,7 @@ My workspace for building, testing, and documenting embedded systems through pra
 - Original Projects
 - Advanced Systems
 
-[Explore the repository →](https://github.com/mukhesh-qtech/Embedded-Systems-Workbench)
+[Explore the repository →](https://github.com/mukhesh-qtech/Embedded_Systems_Workbench)
 
 ## 🤝 Connect
 
