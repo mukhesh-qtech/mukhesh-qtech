@@ -76,7 +76,6 @@ Building strong microcontroller fundamentals.
 
 - LED Blink
 - RGB LED Controller
-- Button-Controlled LED
 
 <sub>GPIO · Digital I/O · Timing</sub>
 
@@ -87,9 +86,7 @@ Building strong microcontroller fundamentals.
 
 Working with peripherals and structured firmware.
 
-- PWM Signal Generator
-- UART Command Interface
-- Sensor Monitor
+- Working on it...
 
 <sub>PWM · UART · Sensor Interfaces</sub>
 
@@ -102,9 +99,7 @@ Working with peripherals and structured firmware.
 
 Developing practical embedded solutions.
 
-- Smart Temperature Monitor
-- Smart Water Tank Controller
-- ColdGuard
+Working on it...
 
 <sub>Monitoring · Control · Firmware Design</sub>
 
@@ -115,9 +110,7 @@ Developing practical embedded solutions.
 
 Exploring system-level engineering.
 
-- Real-Time Systems and RTOS
-- Fault Handling and Watchdogs
-- Robotics and Drone-Oriented Firmware
+working on it...
 
 <sub>Scheduling · Reliability · System Design</sub>
 
