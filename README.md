@@ -70,49 +70,15 @@ Exploring GPIO control, LED states, and timing using STM32 HAL in PICSimLab.
 <tr>
 <td width="50%" valign="top">
 
-### 🟢 Basic Projects
+### 🟢 Projects
 
 Building strong microcontroller fundamentals.
 
 - LED Blink
 - RGB LED Controller
+- Actively learning and exploring...
 
 <sub>GPIO · Digital I/O · Timing</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### 🔵 Intermediate Projects
-
-Working with peripherals and structured firmware.
-
-- Working on it...
-
-<sub>PWM · UART · Sensor Interfaces</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🟣 Original Projects
-
-Developing practical embedded solutions.
-
-Working on it...
-
-<sub>Monitoring · Control · Firmware Design</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### 🟠 Advanced Systems
-
-Exploring system-level engineering.
-
-working on it...
-
-<sub>Scheduling · Reliability · System Design</sub>
 
 </td>
 </tr>
